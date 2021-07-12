@@ -26,7 +26,7 @@
 .mb a{
     text-decoration: none;
     color: rgb(0, 26, 255);
-    font-weight: bold;
+    font-weight:bolder;
 }
 
 .append li
@@ -37,7 +37,7 @@
 }
 .mb
 {
-    padding-right: 2.0em;
+    padding-right: 2.7em;
     padding-top: -1.8em;
     font-size: 18px;
 
